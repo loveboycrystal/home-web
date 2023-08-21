@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="home_web">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/font.zip!/" />
+      <root url="jar://$PROJECT_DIR$/typeWritter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
